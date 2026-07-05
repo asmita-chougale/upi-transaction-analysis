@@ -48,8 +48,9 @@ Below is a glimpse of the interactive dashboard developed for executive and oper
 
 ## 📁 Repository Structure
 ```text
+├── dashboard/     # Dashboard in Power BI
 ├── data/          # Sample datasets
+├── images/        # Dashboard screenshots and visualizations
 ├── notebooks/     # Jupyter notebook for data cleaning, transformations, EDA and hypothesis using statistical tests
 ├── scripts/       # SQL scripts
-├── images/        # Dashboard screenshots and visualizations
 ├── README.md      # Project documentation
