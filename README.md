@@ -1,4 +1,4 @@
-# UPI Transaction Analysis & Risk Dashboard
+# UPI Transaction Analysis Dashboard
 
 ## 📌 Project Overview
 This project focuses on the comprehensive analysis of operational, transactional, and risk data within Unified Payments Interface (UPI) systems. By deep-diving into large-scale payment datasets, the project aims to decode customer and merchant behavioral patterns, identify seasonal payment trends, and detect potential fraud risks. 
